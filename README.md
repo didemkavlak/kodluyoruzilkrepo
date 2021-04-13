@@ -8,7 +8,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fornt-End eğitiminde oluştur
 # Installation
 Önceki projeyi clonelayın.(https://github.com/didemkavlak/kodluyoruzilkrepo.git)
 
-''' git clone https://github.com/didemkavlak/kodluyoruzilkrepo.git '''
+```
+git clone https://github.com/didemkavlak/kodluyoruzilkrepo.git
+```
 
 # Usage
 
@@ -16,8 +18,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-''' cd kodluyoruzilkrepo
-code . '''
+``` 
+cd kodluyoruzilkrepo
+code .
+ ```
 
 # Contributing
 
