@@ -6,6 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fornt-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir de index.html barındırıyor.
 
 # Installation
+
 Önceki projeyi clonelayın.(https://github.com/didemkavlak/kodluyoruzilkrepo.git)
 
 ```
